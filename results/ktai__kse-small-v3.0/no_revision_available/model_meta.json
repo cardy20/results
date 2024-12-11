@@ -1,0 +1,1 @@
+{"name": "kse-3-small-test", "revision": "kse-version3-kor-zh-eng-multi-test-1-884-refactor", "release_date": null, "languages": ["en", "ko"], "n_parameters": null, "memory_usage": null, "max_tokens": null, "embed_dim": 1536, "license": null, "open_source": false, "similarity_fn_name": "cosine", "framework": [], "loader": "KSE3MultiWrapper"}
